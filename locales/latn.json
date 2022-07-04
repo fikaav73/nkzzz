@@ -1,0 +1,83 @@
+{
+    "Home": {
+        "title": "Opština Nikšić"
+    },
+    "Profile": {
+        "competence": "Nadležnosti",
+        "profileImage": "Profilna slika za: "
+    },
+    "Contact": {
+        "lang": "Jezik",
+        "others": "English|Ћирилица",
+        "phone": "Tel",
+        "work-time": "Radno vrijeme:",
+        "search": "Pretraga"
+    },
+    "SliderContact": {
+        "directions": "Smjernice"
+    },
+    "Helpers": {
+        "imageFor": "Slika za "
+    },
+    "latestNews": {
+        "heading": "Novosti i obavještenja",
+        "more": "više"
+    },
+    "ExternalLinks": {
+        "click": "Kliknite za više",
+        "decorativeImg": "Dekorativna slika za link: "
+    },
+    "share": "Podijeli artikal",
+    "news": {
+        "all": "sve novosti",
+        "newsPage": "Novosti stranica",
+        "previous": "Prethodna",
+        "next": "Sledeća"
+    },
+    "municipalitiesTable": {
+        "municipality": "mjesna zajednica",
+        "presidents": "predsjednik",
+        "secretary": "sekretar"
+    },
+    "numbersTable": {
+        "category": "kategorija",
+        "name": "naziv",
+        "number": "broj telefona"
+    },
+    "form": {
+        "heading": "Slanje zahtjeva",
+        "firstName": "Ime",
+        "lastName": "Prezime",
+        "phoneNumber": "Broj telefona",
+        "required": "Ovo polje je obavezno!",
+        "fileError": "Otpremite fajl!",
+        "upload": "Otpremi",
+        "send": "Pošalji",
+        "success": "Zahtjev uspješno poslat!",
+        "error": "Greška pri slanju zahtjeva!"
+    },
+    "search": {
+        "results": "Rezultati pretrage za",
+        "noResults": "Nema rezultata za vašu pretragu!"
+    },
+    "footer": {
+        "contact": {
+            "heading": "Kontaktirajte nas",
+            "text": ["Njegoševa 18, 81400 Nikšić", "Ponedeljak - Petak: 7:00 - 15:00"]
+        },
+        "usefulLinks": {
+            "heading": "Korisni linkovi",
+            "text": [
+                "Vlada Crne Gore",
+                "Nacionalna turistička organizacija Crne Gore",
+                "Zavod za hidrometeorologiju i seizmologiju",
+                "Zavod za zapošljavanje Crne Gore",
+                "Radio i Televizija Crne Gore"
+            ]
+        },
+        "news": {
+            "heading": "Novosti i obavještenja",
+            "text": "Pretplatite se i primajte obavještenja i novosti na Vaš mail."
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Home": {
+        "title": "Municipality of Nikšić"
+    },
+    "Profile": {
+        "competence": "Competence",
+        "profileImage": "Profile image for: "
+    },
+    "Contact": {
+        "lang": "Language",
+        "others": "Latinica|Ћирилица",
+        "phone": "Phone",
+        "work-time": "Working hours:",
+        "search": "Search"
+    },
+    "SliderContact": {
+        "directions": "Directions"
+    },
+    "Helpers": {
+        "imageFor": "Image for "
+    },
+    "latestNews": {
+        "heading": "News and notifications",
+        "more": "more"
+    },
+    "ExternalLinks": {
+        "click": "Click for more",
+        "decorativeImg": "Decorative image for link: "
+    },
+    "share": "Share Article",
+    "news": { "all": "all news", "newsPage": "News Page", "previous": "Previous", "next": "Next" },
+    "municipalitiesTable": {
+        "municipality": "municipality",
+        "presidents": "president",
+        "secretary": "secretary"
+    },
+    "numbersTable": {
+        "category": "category",
+        "name": "name",
+        "number": "phone number"
+    },
+    "form": {
+        "heading": "Send request",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "phoneNumber": "Phone number",
+        "required": "This field is required!",
+        "fileError": "File is required!",
+        "upload": "Upload",
+        "send": "Send",
+        "success": "Request successfully sent!",
+        "error": "Error while sending request!"
+    },
+    "search": {
+        "results": "Search results for",
+        "noResults": "There are no results!"
+    },
+    "footer": {
+        "contact": {
+            "heading": "Contact us",
+            "text": ["Njegoševa 18, 81400 Nikšić", "Monday - Friday: 7:00 - 15:00"]
+        },
+        "usefulLinks": {
+            "heading": "Useful Links",
+            "text": [
+                "Government of Montenegro",
+                "National tourist organization",
+                "Hydrometeorology and seismology office",
+                "Employment office",
+                "Radio and television office"
+            ]
+        },
+        "news": {
+            "heading": "News and notifications",
+            "text": "Subscribe and receive news and notifications on your e-mail."
+        }
+    }
+}
